@@ -1,4 +1,4 @@
-# Stock Analysis
+# Stock Analysis - TEMPORARILY CLOSED
 
 The Purpose of this program is to analyze stock trends and predict future performance through a variety existing financial models.
 
